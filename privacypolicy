@@ -1,0 +1,88 @@
+
+## Privacy Policy – NextLife AI
+
+**Last updated:** [11-January-2026]
+
+NextLife AI respects your privacy and is committed to protecting your personal and health-related information. This Privacy Policy explains how we collect, use, store, and protect your data when you use the NextLife AI application.
+
+---
+
+### 1. Information We Collect
+
+We may collect the following types of information:
+
+* Personal information such as name, email address, and account details
+* Health-related data uploaded by users, including medical records, reports, and prescriptions
+* App usage data to improve performance and user experience
+* Device and log information such as device type, operating system, and app version
+
+---
+
+### 2. How We Use Your Information
+
+We use your data to:
+
+* Securely store and organize your medical records
+* Provide AI-powered summaries and structured health insights
+* Enable features such as health history management, file organization, and calendar tracking
+* Improve app functionality, reliability, and user experience
+* Communicate important updates related to the app
+
+---
+
+### 3. AI and Data Processing
+
+NextLife AI uses artificial intelligence to analyze user-uploaded medical documents for summarization, organization, and informational purposes only.
+AI features are designed to assist users in understanding their data and **do not provide medical diagnosis, treatment, or clinical recommendations**.
+
+---
+
+### 4. Data Storage and Security
+
+User data is stored securely using cloud infrastructure and managed databases.
+Currently, NextLife AI uses trusted third-party services such as **Supabase** for authentication and data management, and **cloud storage services (such as AWS)** for secure file storage.
+
+As the platform evolves and user scale increases, data storage and processing infrastructure may transition to other secure cloud providers such as **AWS or Google Cloud Platform (GCP)**.
+Appropriate security measures, including access controls and encryption where applicable, are implemented to protect user data against unauthorized access, loss, or misuse.
+
+---
+
+### 5. Data Sharing
+
+NextLife AI does not sell or rent user data.
+
+Data may be shared only:
+
+* To operate essential app functionality using trusted service providers
+* When required to comply with legal obligations
+
+All third-party services are selected with security and data protection considerations in mind.
+
+---
+
+### 6. Children’s Privacy
+
+NextLife AI is not intended for children under the age of 13.
+We do not knowingly collect personal or health-related data from children.
+
+---
+
+### 7. User Rights
+
+Users may request access, correction, or deletion of their personal data by contacting us using the details below, subject to applicable laws and regulations.
+
+---
+
+### 8. Changes to This Policy
+
+We may update this Privacy Policy from time to time.
+Any changes will be reflected on this page with an updated revision date.
+
+---
+
+### 9. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+**Email:** [nextlife@studioilios.org](mailto:nextlife@studioilios.org)
+
