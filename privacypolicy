@@ -1,88 +1,57 @@
 
-## Privacy Policy – NextLife AI
 
-**Last updated:** [11-January-2026]
+## Privacy Policy – Ocean AI
 
-NextLife AI respects your privacy and is committed to protecting your personal and health-related information. This Privacy Policy explains how we collect, use, store, and protect your data when you use the NextLife AI application.
+**Last updated:** 2nd April, 2026
 
----
+Ocean AI ("we," "our," or "us") respects your privacy and is committed to protecting your personal and highly sensitive health data. This Privacy Policy explains how we collect, use, store, and protect your information when you use the Ocean AI application. We strictly adhere to Google Play’s Developer Program Policies regarding Personal and Sensitive User Data.
 
-### 1. Information We Collect
+### 1. Information We Collect and How We Use It
 
-We may collect the following types of information:
+To provide Ocean AI’s core functionalities, we request access to the following sensitive data types. We only collect this data with your explicit consent and use it exclusively for the features described below:
 
-* Personal information such as name, email address, and account details
-* Health-related data uploaded by users, including medical records, reports, and prescriptions
-* App usage data to improve performance and user experience
-* Device and log information such as device type, operating system, and app version
+* **Health and Medical Data:** We collect health-related data uploaded by you, including medical records, test reports, and prescriptions. We use this data to provide AI-generated summaries of your health reports and to share them securely with your healthcare provider during scheduled in-app appointments.
+* **Location Data:** We request access to your device's location data. This is required exclusively for the "Nearest Blood Donor" feature, allowing us to accurately match you with nearby donors or recipients. We do not use your location data for advertising or unapproved background tracking.
+* **Microphone and Audio Data:** We request access to your device’s microphone. This is required to enable the "OceanAI Wake Up" voice assistant, allowing you to chat with the AI. It is also used to facilitate and record audio consultations during doctor-patient appointments so you and your doctor can maintain an accurate clinical record.
+* **Personal Information:** We collect your name, email address, and age to create your account, verify you meet our age requirements, and secure your health vault.
 
----
+### 2. Data Storage, Security, and Encryption
 
-### 2. How We Use Your Information
+Protecting your medical data is our highest priority. Ocean AI utilizes **Supabase** for our backend database and authentication infrastructure. 
 
-We use your data to:
+* **Row Level Security (RLS):** Your data is protected using strict Row Level Security (RLS) policies within Supabase. This means your health records are cryptographically isolated; no one can read, access, or modify your data except you and the specific doctors you explicitly grant access to during an appointment.
+* **Encryption:** All personal and sensitive user data is fully encrypted both in transit (using modern cryptography over HTTPS) and at rest.
 
-* Securely store and organize your medical records
-* Provide AI-powered summaries and structured health insights
-* Enable features such as health history management, file organization, and calendar tracking
-* Improve app functionality, reliability, and user experience
-* Communicate important updates related to the app
+### 3. AI and Health Data Processing Disclaimer
 
----
+Ocean AI utilizes artificial intelligence to analyze user-uploaded medical documents to generate summaries and organize your health history. 
 
-### 3. AI and Data Processing
+* **Not Medical Advice:** The AI features are designed strictly for informational and organizational purposes. Ocean AI does not autonomously provide medical diagnoses, treatments, or clinical recommendations. Always consult a qualified healthcare provider for medical decisions.
 
-NextLife AI uses artificial intelligence to analyze user-uploaded medical documents for summarization, organization, and informational purposes only.
-AI features are designed to assist users in understanding their data and **do not provide medical diagnosis, treatment, or clinical recommendations**.
+### 4. Data Sharing and Third Parties
 
----
+**Ocean AI does not sell, rent, or trade your personal or sensitive user data.** Data may be shared only under the following strict conditions:
+* To operate essential app functionality (such as routing a call to a doctor).
+* When required to comply with a valid legal or governmental request.
 
-### 4. Data Storage and Security
+We do not use your health data, location, or audio recordings for advertising, marketing, profiling, or data broker purposes.
 
-User data is stored securely using cloud infrastructure and managed databases.
-Currently, NextLife AI uses trusted third-party services such as **Supabase** for authentication and data management, and **cloud storage services (such as AWS)** for secure file storage.
+### 5. Age Requirements and Children’s Privacy
 
-As the platform evolves and user scale increases, data storage and processing infrastructure may transition to other secure cloud providers such as **AWS or Google Cloud Platform (GCP)**.
-Appropriate security measures, including access controls and encryption where applicable, are implemented to protect user data against unauthorized access, loss, or misuse.
+Ocean AI is strictly intended for users who are **17 years of age and older**. We do not knowingly collect personal or health-related data from children under 17. If we become aware that a user under 17 has provided us with personal data, we will immediately take steps to delete such information and terminate the account.
 
----
+### 6. User Rights and Account Deletion
 
-### 5. Data Sharing
+You have full control over your data. You may request access to, correction of, or complete deletion of your personal and health data at any time. 
 
-NextLife AI does not sell or rent user data.
+* **Account Deletion:** You can initiate the deletion of your account and all associated health records directly within the Ocean AI app settings, or by contacting us. Upon account deletion, all associated health data, audio records, and personal information are permanently erased from our Supabase servers, except where retention is legally required.
 
-Data may be shared only:
+### 7. Changes to This Policy
 
-* To operate essential app functionality using trusted service providers
-* When required to comply with legal obligations
+We may update this Privacy Policy as our platform evolves. Any changes will be reflected on this page with an updated revision date.
 
-All third-party services are selected with security and data protection considerations in mind.
+### 8. Contact Us
 
----
-
-### 6. Children’s Privacy
-
-NextLife AI is not intended for children under the age of 13.
-We do not knowingly collect personal or health-related data from children.
-
----
-
-### 7. User Rights
-
-Users may request access, correction, or deletion of their personal data by contacting us using the details below, subject to applicable laws and regulations.
-
----
-
-### 8. Changes to This Policy
-
-We may update this Privacy Policy from time to time.
-Any changes will be reflected on this page with an updated revision date.
-
----
-
-### 9. Contact Us
-
-If you have any questions or concerns about this Privacy Policy, please contact us at:
+If you have any questions, concerns, or requests regarding this Privacy Policy or your data, please contact us at:
 
 **Email:** [nextlife@studioilios.org](mailto:nextlife@studioilios.org)
-
