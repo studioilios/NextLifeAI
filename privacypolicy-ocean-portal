@@ -1,0 +1,60 @@
+
+
+# Privacy Policy for Doctor Dashboard
+
+**Effective Date:** April 11, 2026
+
+## 1. Introduction
+Welcome to **Doctor Dashboard** ("we," "our," or "us"), operated by G V Amaresh. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application. We are committed to protecting the privacy of healthcare professionals ("Doctors") and their patients ("Users") while facilitating secure, offline appointment management and digital health record-keeping.
+
+## 2. Information We Collect
+To provide a secure healthcare platform, we collect specific information from our registered medical professionals and the patients they treat.
+
+### A. Information from Doctors
+* **Personal Identification:** Full name, phone number, email address, and clinic/hospital details.
+* **Professional Credentials:** Medical license number, specialization, and qualifications.
+* **Usage Data:** Logs of app interactions, appointment creation, and record access times.
+
+### B. Information Regarding Patients
+When a doctor uses the app to manage an offline appointment, the following patient data is processed through the app:
+* **Demographic Data:** Name, age, gender, and contact information.
+* **Health and Medical Records:** Past medical history, current symptoms, newly prescribed medications, treatment plans, and diagnostic notes entered by the Doctor.
+
+## 3. Strict Doctor Verification Process
+To ensure the highest level of patient safety and platform integrity, all Doctors are subject to a mandatory manual verification process.
+* Upon registration, Doctors must submit their valid Medical License Number.
+* Our administrative team manually verifies these credentials against the National Medical Commission (NMC) database or the relevant statutory medical council.
+* Account activation and access to patient records are strictly prohibited until this manual verification is successfully completed.
+
+## 4. Patient Consent & OTP Authorization Mechanism
+We employ a strict "Consent-First" architecture for accessing Patient Health Records (PHR).
+* **Explicit Consent Required:** A Doctor cannot view a patient's past medical history without the patient's explicit, real-time consent.
+* **OTP Authorization:** To grant access, the patient must generate a secure One-Time Password (OTP) from their user application and share it with the Doctor during the in-person visit.
+* **Session-Based Access:** Entering this OTP grants the Doctor temporary, secure access to the patient's existing medical records, allowing the Doctor to review history and seamlessly add new visit details, medications, and prescriptions to the patient's centralized profile.
+
+## 5. How We Use the Information
+We use the collected information strictly for healthcare facilitation and platform security:
+* To verify the identity and medical credentials of the Doctor.
+* To enable Doctors to schedule offline appointments and manage their clinic queues.
+* To allow Doctors to securely access (post-OTP validation) and update patient health records.
+* To comply with legal obligations, enforce our terms, and resolve any disputes.
+
+## 6. Data Sharing and Disclosure
+We do not sell, rent, or trade personal or medical data to third parties. Data is only shared under the following strict circumstances:
+* **Doctor-Patient Relationship:** Data is shared securely between the verified Doctor and the patient, governed entirely by the OTP consent mechanism.
+* **Legal Requirements:** We may disclose information if required to do so by law, in response to a subpoena, court order, or other legally binding processes.
+* **Service Providers:** We utilize secure, health-compliant third-party cloud infrastructure to store data. These providers are bound by strict confidentiality and data processing agreements.
+
+## 7. Data Security
+We implement industry-standard security measures to protect personal and medical information. All sensitive health and medical information is **encrypted in transit and at rest**. Access to the server architecture is strictly controlled, and patient records are safeguarded by our OTP-based access mechanism.
+
+## 8. Data Retention and User Rights
+* **Retention:** We retain data only for as long as necessary to fulfill the purposes outlined in this policy, or as mandated by applicable healthcare data retention laws.
+* **Account & Data Deletion:** Users (Patients) and Doctors have the right to request access to, correction of, or deletion of their personal data. You may request full account and data deletion by contacting us at the email address provided below. 
+* **Revocation of Access:** Patients can revoke a Doctor's access to their records at any time through their respective user application.
+
+## 9. Contact Us
+If you have questions, comments, or data deletion requests regarding this Privacy Policy or our privacy practices, please contact our Grievance Officer:
+
+**Name:** G V Amaresh  
+**Email:** nextlife@studioilios.org
